@@ -47,7 +47,7 @@ yesBtn.addEventListener("click", () => {
   document.body.innerHTML = `
         <img
   class="fit-picture"
-  src="/guineapig.gif"  width="300" height="300" />
+  src="./guineapig.gif"  width="300" height="300" />
     <h1>Yayyyy 🥰💖</h1>
     <p>You are officially my Valentine 😍</p>
   `;
